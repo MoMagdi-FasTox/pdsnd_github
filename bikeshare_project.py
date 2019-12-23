@@ -62,7 +62,8 @@ def load_data(city, month, day):
     Returns:
         df - Pandas DataFrame containing city data filtered by month and day
     """
-
+   
+    print(warning Washington's lack of user data)
     print("\nThe program is loading the data for the filters of your choice.")
     start_time = time.time()
 
