@@ -63,7 +63,7 @@ def load_data(city, month, day):
         df - Pandas DataFrame containing city data filtered by month and day
     """
    
-    print(warning Washington's lack of user data)
+    print(warning Washington lack of user data)
     print("\nThe program is loading the data for the filters of your choice.")
     start_time = time.time()
 
@@ -132,7 +132,7 @@ def time_stats(df):
 
 
 def station_stats(df):
-    """Displays statistics on the most popular stations and trip."""
+    """Display statistics on the most popular stations and trip."""
 
     print('\nCalculating The Most Popular Stations and Trip...\n')
     start_time = time.time()
