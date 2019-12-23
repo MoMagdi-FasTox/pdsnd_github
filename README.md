@@ -14,5 +14,5 @@ We will compare the system usage between three large cities: Chicago, New York C
 bikeshare_project.py
 ```
 ### Credits
-By Mohamed Magdy (GitHub)[https://github.com/MoMagdi-FasTox/pdsnd_github]
+By Mohamed Magdy [GitHub](https://github.com/MoMagdi-FasTox/pdsnd_github)
 
